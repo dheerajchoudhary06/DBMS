@@ -1,4 +1,4 @@
-REM   Script: SAHIL
+REM   Script: DHEERAJ01
 REM   DBMS
 
 CREATE TABLE employee (   
