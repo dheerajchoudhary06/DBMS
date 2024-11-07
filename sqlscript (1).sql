@@ -1,5 +1,5 @@
-REM   Script: Session 04
-REM   Class
+REM   Script: DHEERAJ02
+REM   DBMS
 
 CREATE TABLE Student ( 
     StudentId NUMBER (4) PRIMARY KEY, 
